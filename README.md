@@ -11,3 +11,5 @@ The App:
 4. has search/filter functionality
 
 5. Only uses the api/getall route of my api
+
+6. Movie component in a separate file
