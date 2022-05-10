@@ -1,4 +1,4 @@
-The project is incomplete. I wasn't able to get the hang of posting
+The project is incomplete. I wasn't able to get the hang of posting. Video shows search functionality
 
 The App:
 
